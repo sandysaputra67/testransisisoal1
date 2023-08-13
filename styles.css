@@ -206,7 +206,10 @@ button {
 }
 
 .green {
-  background-color: var(--box-color-4);
+  background-color: blue;
+}
+.white{
+  background-color: white;
 }
 
 .more-button {
