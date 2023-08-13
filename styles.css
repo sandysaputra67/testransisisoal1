@@ -123,17 +123,17 @@ button {
 }
 
 .right-bar {
-  width:min-content;
+  width:max-content;
   border-left: 1px solid #e3e7f7;
   display: flex;
   flex-direction: column;
 }
 
-.right-bar .header {
+/* .right-bar .header {
   font-size: 20px;
   color: var(--main-text-color);
   margin-left: 30px;
-}
+} */
 
 .top-part {
   padding: 30px;
